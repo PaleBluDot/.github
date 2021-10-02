@@ -1,7 +1,7 @@
 name: Feature Request
 description: File a feature request
 title: "✨ Feat: "
-labels: [enhancement ✨]
+labels: [enhancement]
 assignees:
   - palebludot
 body:

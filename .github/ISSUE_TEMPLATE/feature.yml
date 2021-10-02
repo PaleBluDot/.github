@@ -47,4 +47,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this feature request!
+        ### Thanks for taking the time to fill out this feature request!

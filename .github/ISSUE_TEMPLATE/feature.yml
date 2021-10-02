@@ -1,6 +1,6 @@
-name: Feature Request
+name: ✨Feature Request
 description: File a feature request
-title: "✨ Feat: "
+title: "✨Feat: "
 labels: [enhancement]
 assignees:
   - palebludot

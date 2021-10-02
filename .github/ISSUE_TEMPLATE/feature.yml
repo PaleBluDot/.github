@@ -40,7 +40,7 @@ body:
         - v1.2.3
         - Chrome Version 93.0.4577.82 (Official Build) (64-bit)
   - type: textarea
-    id: environment
+    id: other-info
     attributes:
       label: Other information
       description: e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. stackoverflow, gitter, etc

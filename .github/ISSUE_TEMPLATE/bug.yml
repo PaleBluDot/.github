@@ -28,7 +28,7 @@ body:
     attributes:
       label: What is the expected behavior?
       description: Explain in details, what you are expecting?
-      placeholder: Tell us what you see!
+      placeholder: Tell us what you want to see!
     validations:
       required: true
   - type: textarea

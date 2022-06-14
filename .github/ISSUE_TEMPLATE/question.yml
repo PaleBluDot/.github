@@ -1,6 +1,6 @@
 name: ❓Question
 description: Answer me this...
-title: "❓Quiz: "
+title: "❓ask: "
 labels: [question]
 assignees:
   - palebludot
@@ -11,6 +11,7 @@ body:
       label: What is the question you be having?
     validations:
       required: true
+
   - type: markdown
     attributes:
       value: |
